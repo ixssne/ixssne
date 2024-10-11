@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning FRONT END
 - 📫 my email : sgowd3566@gmail.com
 - 😄 Pronouns: she/her
+- CONSISTENCY !
   
 
 <!---
