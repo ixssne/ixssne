@@ -1,6 +1,5 @@
 - 👋 Hi, I’m SNEHA GOWD
-- 👀 I’m interested in WEB DEVLOPMENT
-- 🌱 I’m currently learning FRONT END
+- 👀 I’m interested in PYTHON
 - 📫 my email : sgowd3566@gmail.com
 - 😄 Pronouns: she/her
 - CONSISTENCY !
